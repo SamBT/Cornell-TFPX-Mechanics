@@ -1,0 +1,3 @@
+Region,Max T,Avg Max T (10 largest),Min T,Avg T,Voltage,Current,Power,Area Fraction
+main,24.293,24.270,23.239,24.002,2.500,0.400,1.000,1.000
+central-wires,24.293,24.270,23.308,24.043,2.500,0.400,1.000,0.950

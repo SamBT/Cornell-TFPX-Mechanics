@@ -1,0 +1,3 @@
+Region,Max T,Avg Max T (10 largest),Min T,Avg T,Voltage,Current,Power,Area Fraction,Pixel Count
+main,29.572,29.552,24.413,27.341,3.000,1.500,4.500,1.000,6447
+top-left-hotspot,29.572,29.552,25.869,28.772,3.000,1.500,4.500,0.200,1009

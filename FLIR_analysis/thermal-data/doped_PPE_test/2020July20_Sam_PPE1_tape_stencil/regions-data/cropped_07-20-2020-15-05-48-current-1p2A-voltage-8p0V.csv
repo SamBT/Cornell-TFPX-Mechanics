@@ -1,0 +1,3 @@
+Region,Max T,Avg Max T (10 largest),Min T,Avg T,Voltage,Current,Power,Area Fraction
+main,32.082,32.062,25.269,30.686,8.000,1.200,9.600,1.000
+left-half,32.082,32.062,24.556,30.807,8.000,1.200,9.600,0.500

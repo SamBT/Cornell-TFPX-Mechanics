@@ -1,0 +1,3 @@
+Region,Max T,Avg Max T (10 largest),Min T, Avg T, Voltage, Current, Power
+tube,6.022,5.994,5.461,5.824,0.960,3.500,3.360
+sLDOs,54.919,50.701,9.486,17.053,0.960,3.500,3.360

@@ -1,0 +1,3 @@
+Region,Max T,Avg Max T (10 largest),Min T,Avg T,Voltage,Current,Power
+main-lower,23.920,23.847,22.827,23.389,3.680,0.600,2.208
+top-hotspot,24.218,24.194,23.389,23.878,3.680,0.600,2.208

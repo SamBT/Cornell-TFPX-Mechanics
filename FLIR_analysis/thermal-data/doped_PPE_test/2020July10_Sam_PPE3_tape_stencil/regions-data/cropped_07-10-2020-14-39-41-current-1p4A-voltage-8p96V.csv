@@ -1,0 +1,3 @@
+Region,Max T,Avg Max T (10 largest),Min T,Avg T,Voltage,Current,Power,Area Fraction
+main,40.657,40.572,26.173,33.615,8.960,1.400,12.544,1.000
+hotspot,40.657,40.572,34.344,38.052,8.960,1.400,12.544,0.330
